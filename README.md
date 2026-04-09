@@ -1,6 +1,6 @@
 - 👋 Hi, I’m André
 - 👀 I’m interested in aprender programação.
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning c#
 
 
 <!---
